@@ -1,0 +1,13 @@
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\obj\Debug\netcoreapp3.0\csharpIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\obj\Debug\netcoreapp3.0\csharpIntroduction.AssemblyInfoInputs.cache
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\obj\Debug\netcoreapp3.0\csharpIntroduction.AssemblyInfo.cs
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\obj\Debug\netcoreapp3.0\csharpIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\bin\Debug\netcoreapp3.0\csharpIntroduction.exe
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\bin\Debug\netcoreapp3.0\csharpIntroduction.deps.json
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\bin\Debug\netcoreapp3.0\csharpIntroduction.runtimeconfig.json
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\bin\Debug\netcoreapp3.0\csharpIntroduction.runtimeconfig.dev.json
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\bin\Debug\netcoreapp3.0\csharpIntroduction.dll
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\bin\Debug\netcoreapp3.0\csharpIntroduction.pdb
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\obj\Debug\netcoreapp3.0\csharpIntroduction.dll
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\obj\Debug\netcoreapp3.0\csharpIntroduction.pdb
+C:\Users\Omkar R\source\repos\csharpIntroduction\csharpIntroduction\obj\Debug\netcoreapp3.0\csharpIntroduction.genruntimeconfig.cache

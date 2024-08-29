@@ -1,0 +1,13 @@
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\bin\Debug\netcoreapp3.0\Art_operators.exe
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\bin\Debug\netcoreapp3.0\Art_operators.deps.json
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\bin\Debug\netcoreapp3.0\Art_operators.runtimeconfig.json
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\bin\Debug\netcoreapp3.0\Art_operators.runtimeconfig.dev.json
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\bin\Debug\netcoreapp3.0\Art_operators.dll
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\bin\Debug\netcoreapp3.0\Art_operators.pdb
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\obj\Debug\netcoreapp3.0\Art_operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\obj\Debug\netcoreapp3.0\Art_operators.AssemblyInfoInputs.cache
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\obj\Debug\netcoreapp3.0\Art_operators.AssemblyInfo.cs
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\obj\Debug\netcoreapp3.0\Art_operators.csproj.CoreCompileInputs.cache
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\obj\Debug\netcoreapp3.0\Art_operators.dll
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\obj\Debug\netcoreapp3.0\Art_operators.pdb
+C:\Users\Omkar R\source\repos\csharpIntroduction\Art_operators\obj\Debug\netcoreapp3.0\Art_operators.genruntimeconfig.cache

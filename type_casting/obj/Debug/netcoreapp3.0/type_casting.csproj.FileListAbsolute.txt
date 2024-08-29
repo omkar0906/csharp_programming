@@ -1,0 +1,13 @@
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\bin\Debug\netcoreapp3.0\type_casting.exe
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\bin\Debug\netcoreapp3.0\type_casting.deps.json
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\bin\Debug\netcoreapp3.0\type_casting.runtimeconfig.json
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\bin\Debug\netcoreapp3.0\type_casting.runtimeconfig.dev.json
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\bin\Debug\netcoreapp3.0\type_casting.dll
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\bin\Debug\netcoreapp3.0\type_casting.pdb
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\obj\Debug\netcoreapp3.0\type_casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\obj\Debug\netcoreapp3.0\type_casting.AssemblyInfoInputs.cache
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\obj\Debug\netcoreapp3.0\type_casting.AssemblyInfo.cs
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\obj\Debug\netcoreapp3.0\type_casting.csproj.CoreCompileInputs.cache
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\obj\Debug\netcoreapp3.0\type_casting.dll
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\obj\Debug\netcoreapp3.0\type_casting.pdb
+C:\Users\Omkar R\source\repos\csharpIntroduction\type_casting\obj\Debug\netcoreapp3.0\type_casting.genruntimeconfig.cache
